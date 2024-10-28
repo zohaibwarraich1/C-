@@ -29,3 +29,5 @@ This Repositery includes different solved questions below:
 8. Creating Shapes using Loops (for, while).
   
 9. Basic Games Code.
+
+10. Measure Run Time code to check how much time the program takes to run.
